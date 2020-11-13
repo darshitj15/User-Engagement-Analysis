@@ -11,7 +11,7 @@ The link for the analysis is: https://databricks-prod-cloudfront.cloud.databrick
 A databricks account is not required to open this link and review the analysis. 
 
 
-Some glimpse of the analysis:
+## Some glimpse of the analysis:
 
 ![alt text here](AnalysisImages/EmailOpen.png)
 
