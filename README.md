@@ -11,7 +11,6 @@ This project is aimed to determine the user engagement for an enterprise network
 The Jupyter Notebook uploaded in this repository includes all the queries. However, to look at the trend using graphs, it is best recommended to check the link mentioned below where the analysis has been performed. 
 
 The link for the analysis is: https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/3007571033566758/3282462353226895/1538677595945462/latest.html
-A databricks account is not required to open this link and review the analysis. 
 
 
 ## Some glimpse of the analysis:
