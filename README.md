@@ -5,7 +5,7 @@
 ## Summary:
 This project is aimed to determine the user engagement for an enterprise networking company’s software known as eLinks and the reasons behind the decrement using SQL queries using Databricks. This repository includes all the files that are used in this project to determine the reasons behind the reduction in the user engagement. The project determines the following information from the given data:
 (1) Has actually user activity or engagement dropped recently and if so, how serious or significant is it?
-(2) The possible reasons for the drop in activity, and investigation for each of these potential reasons by conducting time-series analysis using the relevant data, writing SQL queries, and generating related visualizations.
+(2) The possible reasons for the drop in activity, and investigation by conducting time-series analysis using the relevant data, writing SQL queries, and generating related visualizations.
 
 ## Analysis:
 The Jupyter Notebook uploaded in this repository includes all the queries. However, to look at the trend using graphs, it is best recommended to check the link mentioned below where the analysis has been performed. 
